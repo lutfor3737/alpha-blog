@@ -1,4 +1,4 @@
-#!/Users/Lutfor/.rvm/rubies/ruby-2.2.1/bin/ruby
+#!/usr/bin/env ruby
 begin
   load File.expand_path('../spring', __FILE__)
 rescue LoadError => e
