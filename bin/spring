@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/bin/env /Users/Lutfor/.rvm/rubies/ruby-2.2.1/bin/ruby
 
 # This file loads spring without using Bundler, in order to be fast.
 # It gets overwritten when you run the `spring binstub` command.

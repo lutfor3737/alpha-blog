@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby2.3
+#!/usr/bin/env /Users/Lutfor/.rvm/rubies/ruby-2.2.1/bin/ruby
 require 'pathname'
 
 # path to your application root.
